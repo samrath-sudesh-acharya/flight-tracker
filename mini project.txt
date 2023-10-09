@@ -1,0 +1,2 @@
+set innodb_lock_wait_timeout=100;
+SET GLOBAL FOREIGN_KEY_CHECKS=0;

@@ -1,0 +1,4119 @@
+{
+    "success": {
+      "success": true,
+      "data": [
+        {
+          "aircraft": {
+            "iataCode": "C172",
+            "icao24": "300806",
+            "icaoCode": "C172",
+            "regNumber": "I-GNHR"
+          },
+          "airline": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "flight": {
+            "iataNumber": "XXD",
+            "icaoNumber": "IGNHR",
+            "number": "XXF"
+          },
+          "geography": {
+            "altitude": 289.56,
+            "direction": 312,
+            "latitude": 44.76,
+            "longitude": 11.47
+          },
+          "speed": {
+            "horizontal": 142.604,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851062
+          },
+          "schedule": {
+            "DATE": "09 Oct 2023",
+            "FROM": "Colombo (CMB)",
+            "TO": "Mumbai (BOM)",
+            "AIRCRAFT": "A20N (VT-TNK)",
+            "FLIGHT TIME": "—",
+            "STD": "10:35",
+            "ATD": "10:37",
+            "STA": "13:05",
+            "STATUS": "Estimated 12:54"
+          },
+          "image": "https://cdn.jetphotos.com/full/6/837050_1687641658.jpg"
+        },
+        {
+          "aircraft": {
+            "iataCode": "B789",
+            "icao24": "71BA08",
+            "icaoCode": "B789",
+            "regNumber": "HL7208"
+          },
+          "airline": {
+            "iataCode": "KE",
+            "icaoCode": "KAL"
+          },
+          "arrival": {
+            "iataCode": "DFW",
+            "icaoCode": "KDFW"
+          },
+          "departure": {
+            "iataCode": "ICN",
+            "icaoCode": "RKSI"
+          },
+          "flight": {
+            "iataNumber": "KE31",
+            "icaoNumber": "KAL031",
+            "number": "31"
+          },
+          "geography": {
+            "altitude": 8572.5,
+            "direction": 108,
+            "latitude": 33.9,
+            "longitude": -99.12
+          },
+          "speed": {
+            "horizontal": 840.808,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851371
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A320",
+            "icao24": "880454",
+            "icaoCode": "A320",
+            "regNumber": "HS-ABT"
+          },
+          "airline": {
+            "iataCode": "AK",
+            "icaoCode": "AXM"
+          },
+          "arrival": {
+            "iataCode": "UTH",
+            "icaoCode": "VTUD"
+          },
+          "departure": {
+            "iataCode": "HKT",
+            "icaoCode": "VTSP"
+          },
+          "flight": {
+            "iataNumber": "FD3170",
+            "icaoNumber": "AIQ3170",
+            "number": "3170"
+          },
+          "geography": {
+            "altitude": 10668,
+            "direction": 24,
+            "latitude": 11.47,
+            "longitude": 99.62
+          },
+          "speed": {
+            "horizontal": 798.212,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696850764
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B738",
+            "icao24": "8A01DE",
+            "icaoCode": "B738",
+            "regNumber": "PK-GMD"
+          },
+          "airline": {
+            "iataCode": "GA",
+            "icaoCode": "GIA"
+          },
+          "arrival": {
+            "iataCode": "CGK",
+            "icaoCode": "WIII"
+          },
+          "departure": {
+            "iataCode": "KNO",
+            "icaoCode": "WIMM"
+          },
+          "flight": {
+            "iataNumber": "GA121",
+            "icaoNumber": "GIA121",
+            "number": "121"
+          },
+          "geography": {
+            "altitude": 10668,
+            "direction": 139,
+            "latitude": -2.71,
+            "longitude": 104.82
+          },
+          "speed": {
+            "horizontal": 805.62,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696850768
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A21N",
+            "icao24": "0D0DD3",
+            "icaoCode": "A21N",
+            "regNumber": "XA-VSK"
+          },
+          "airline": {
+            "iataCode": "Y4",
+            "icaoCode": "VOI"
+          },
+          "arrival": {
+            "iataCode": "DGO",
+            "icaoCode": "MMDO"
+          },
+          "departure": {
+            "iataCode": "TIJ",
+            "icaoCode": "MMTJ"
+          },
+          "flight": {
+            "iataNumber": "Y4454",
+            "icaoNumber": "VOI454",
+            "number": "454"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 247,
+            "latitude": 24.13,
+            "longitude": -104.53
+          },
+          "speed": {
+            "horizontal": 24.076,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "landed",
+          "system": {
+            "squawk": null,
+            "updated": 1696850760
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B77L",
+            "icao24": "04008B",
+            "icaoCode": "B77L",
+            "regNumber": "ET-ARI"
+          },
+          "airline": {
+            "iataCode": "ET",
+            "icaoCode": "ETH"
+          },
+          "arrival": {
+            "iataCode": "LGG",
+            "icaoCode": "EBLG"
+          },
+          "departure": {
+            "iataCode": "ADD",
+            "icaoCode": "HAAB"
+          },
+          "flight": {
+            "iataNumber": "ET3712",
+            "icaoNumber": "ETH3712",
+            "number": "3712"
+          },
+          "geography": {
+            "altitude": 10972.8,
+            "direction": 321,
+            "latitude": 44.23,
+            "longitude": 16.12
+          },
+          "speed": {
+            "horizontal": 798.212,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696850765
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A320",
+            "icao24": "706135",
+            "icaoCode": "A320",
+            "regNumber": "9K-CAT"
+          },
+          "airline": {
+            "iataCode": "J9",
+            "icaoCode": "JZR"
+          },
+          "arrival": {
+            "iataCode": "DXB",
+            "icaoCode": "OMDB"
+          },
+          "departure": {
+            "iataCode": "KWI",
+            "icaoCode": "OKBK"
+          },
+          "flight": {
+            "iataNumber": "J9123",
+            "icaoNumber": "JZR123",
+            "number": "123"
+          },
+          "geography": {
+            "altitude": 5486.4,
+            "direction": 109,
+            "latitude": 25.77,
+            "longitude": 54.37
+          },
+          "speed": {
+            "horizontal": 674.128,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696850458
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A359",
+            "icao24": "899022",
+            "icaoCode": "A359",
+            "regNumber": "B-18905"
+          },
+          "airline": {
+            "iataCode": "CI",
+            "icaoCode": "CAL"
+          },
+          "arrival": {
+            "iataCode": "TPE",
+            "icaoCode": "RCTP"
+          },
+          "departure": {
+            "iataCode": "YVR",
+            "icaoCode": "CYVR"
+          },
+          "flight": {
+            "iataNumber": "CI31",
+            "icaoNumber": "CAL031",
+            "number": "31"
+          },
+          "geography": {
+            "altitude": 10972.8,
+            "direction": 264,
+            "latitude": 55.85,
+            "longitude": -153.06
+          },
+          "speed": {
+            "horizontal": 888.96,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851353
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B77W",
+            "icao24": "89901C",
+            "icaoCode": "B77W",
+            "regNumber": "B-18002"
+          },
+          "airline": {
+            "iataCode": "CI",
+            "icaoCode": "CAL"
+          },
+          "arrival": {
+            "iataCode": "TPE",
+            "icaoCode": "RCTP"
+          },
+          "departure": {
+            "iataCode": "FRA",
+            "icaoCode": "EDDF"
+          },
+          "flight": {
+            "iataNumber": "CI62",
+            "icaoNumber": "CAL062",
+            "number": "62"
+          },
+          "geography": {
+            "altitude": 9448.8,
+            "direction": 118,
+            "latitude": 43.76,
+            "longitude": 28.66
+          },
+          "speed": {
+            "horizontal": 1003.78,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851075
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A139",
+            "icao24": "406EA2",
+            "icaoCode": "A139",
+            "regNumber": "G-CIPX"
+          },
+          "airline": {
+            "iataCode": "BHL",
+            "icaoCode": "BHL"
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "flight": {
+            "iataNumber": "BHL532",
+            "icaoNumber": "BHL532",
+            "number": "532"
+          },
+          "geography": {
+            "altitude": 434.34,
+            "direction": 237,
+            "latitude": 53,
+            "longitude": 2.14
+          },
+          "speed": {
+            "horizontal": 259.28,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851087
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "AC90",
+            "icao24": "440A22",
+            "icaoCode": "AC90",
+            "regNumber": "OE-FME"
+          },
+          "airline": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "POW",
+            "icaoCode": "LJPZ"
+          },
+          "flight": {
+            "iataNumber": "XXD",
+            "icaoNumber": "OEFME",
+            "number": "XXF"
+          },
+          "geography": {
+            "altitude": 6400.8,
+            "direction": 1,
+            "latitude": 45.53,
+            "longitude": 7.88
+          },
+          "speed": {
+            "horizontal": 418.552,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851359
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B737",
+            "icao24": "5140C2",
+            "icaoCode": "B737",
+            "regNumber": "4L-NIK"
+          },
+          "airline": {
+            "iataCode": "A9",
+            "icaoCode": "TGZ"
+          },
+          "arrival": {
+            "iataCode": "TBS",
+            "icaoCode": "UGTB"
+          },
+          "departure": {
+            "iataCode": "AMS",
+            "icaoCode": "EHAM"
+          },
+          "flight": {
+            "iataNumber": "A9652",
+            "icaoNumber": "TGZ652",
+            "number": "652"
+          },
+          "geography": {
+            "altitude": 11894.8,
+            "direction": 126,
+            "latitude": 46.29,
+            "longitude": 23.97
+          },
+          "speed": {
+            "horizontal": 985.264,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851072
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B738",
+            "icao24": "A44CDA",
+            "icaoCode": "B738",
+            "regNumber": "N3763D"
+          },
+          "airline": {
+            "iataCode": "DL",
+            "icaoCode": "DAL"
+          },
+          "arrival": {
+            "iataCode": "SEA",
+            "icaoCode": "KSEA"
+          },
+          "departure": {
+            "iataCode": "RDU",
+            "icaoCode": "KRDU"
+          },
+          "flight": {
+            "iataNumber": "DL885",
+            "icaoNumber": "DAL885",
+            "number": "885"
+          },
+          "geography": {
+            "altitude": 10972.8,
+            "direction": 318,
+            "latitude": 40.97,
+            "longitude": -86.46
+          },
+          "speed": {
+            "horizontal": 787.1,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851371
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "CRJ9",
+            "icao24": "3C4D69",
+            "icaoCode": "CRJ9",
+            "regNumber": "D-ACKI"
+          },
+          "airline": {
+            "iataCode": "LH",
+            "icaoCode": "DLH"
+          },
+          "arrival": {
+            "iataCode": "BRU",
+            "icaoCode": "EBBR"
+          },
+          "departure": {
+            "iataCode": "FRA",
+            "icaoCode": "EDDF"
+          },
+          "flight": {
+            "iataNumber": "LH1012",
+            "icaoNumber": "DLH9MM",
+            "number": "1012"
+          },
+          "geography": {
+            "altitude": 4389.12,
+            "direction": 303,
+            "latitude": 50.59,
+            "longitude": 5.82
+          },
+          "speed": {
+            "horizontal": 624.124,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851358
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B77L",
+            "icao24": "AC25C4",
+            "icaoCode": "B77L",
+            "regNumber": "N882FD"
+          },
+          "airline": {
+            "iataCode": "FX",
+            "icaoCode": "FDX"
+          },
+          "arrival": {
+            "iataCode": "SYD",
+            "icaoCode": "YSSY"
+          },
+          "departure": {
+            "iataCode": "HNL",
+            "icaoCode": "PHNL"
+          },
+          "flight": {
+            "iataNumber": "FX77",
+            "icaoNumber": "FDX77",
+            "number": "77"
+          },
+          "geography": {
+            "altitude": 10058.4,
+            "direction": 220,
+            "latitude": 14.01,
+            "longitude": -165.36
+          },
+          "speed": {
+            "horizontal": 850.068,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851373
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B788",
+            "icao24": "AB148E",
+            "icaoCode": "B788",
+            "regNumber": "N813AN"
+          },
+          "airline": {
+            "iataCode": "AA",
+            "icaoCode": "AAL"
+          },
+          "arrival": {
+            "iataCode": "DFW",
+            "icaoCode": "KDFW"
+          },
+          "departure": {
+            "iataCode": "FRA",
+            "icaoCode": "EDDF"
+          },
+          "flight": {
+            "iataNumber": "AA71",
+            "icaoNumber": "AAL71",
+            "number": "71"
+          },
+          "geography": {
+            "altitude": 11582.4,
+            "direction": 271,
+            "latitude": 53.02,
+            "longitude": -16.56
+          },
+          "speed": {
+            "horizontal": 788.952,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851353
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A321",
+            "icao24": "3C6672",
+            "icaoCode": "A321",
+            "regNumber": "D-AISR"
+          },
+          "airline": {
+            "iataCode": "LH",
+            "icaoCode": "DLH"
+          },
+          "arrival": {
+            "iataCode": "FRA",
+            "icaoCode": "EDDF"
+          },
+          "departure": {
+            "iataCode": "PMO",
+            "icaoCode": "LICJ"
+          },
+          "flight": {
+            "iataNumber": "LH339",
+            "icaoNumber": "DLH339",
+            "number": "339"
+          },
+          "geography": {
+            "altitude": 3048,
+            "direction": 6,
+            "latitude": 49.69,
+            "longitude": 9.32
+          },
+          "speed": {
+            "horizontal": 563.008,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851358
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A21N",
+            "icao24": "3C64A5",
+            "icaoCode": "A21N",
+            "regNumber": "D-AIEE"
+          },
+          "airline": {
+            "iataCode": "LH",
+            "icaoCode": "DLH"
+          },
+          "arrival": {
+            "iataCode": "LCA",
+            "icaoCode": "LCLK"
+          },
+          "departure": {
+            "iataCode": "MUC",
+            "icaoCode": "EDDM"
+          },
+          "flight": {
+            "iataNumber": "LH1768",
+            "icaoNumber": "DLH1768",
+            "number": "1768"
+          },
+          "geography": {
+            "altitude": 3055.62,
+            "direction": 114,
+            "latitude": 35.06,
+            "longitude": 33.05
+          },
+          "speed": {
+            "horizontal": 566.712,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851362
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A21N",
+            "icao24": "A1B2EE",
+            "icaoCode": "A21N",
+            "regNumber": "N2086J"
+          },
+          "airline": {
+            "iataCode": "B6",
+            "icaoCode": "JBU"
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "JFK",
+            "icaoCode": "KJFK"
+          },
+          "flight": {
+            "iataNumber": "B61770",
+            "icaoNumber": "JBU1770",
+            "number": "1770"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 199,
+            "latitude": 40.65,
+            "longitude": -73.78
+          },
+          "speed": {
+            "horizontal": 0,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "started",
+          "system": {
+            "squawk": null,
+            "updated": 1696850727
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "AT46",
+            "icao24": "8014E9",
+            "icaoCode": "AT46",
+            "regNumber": "VT-UDA"
+          },
+          "airline": {
+            "iataCode": "9I",
+            "icaoCode": "LLR"
+          },
+          "arrival": {
+            "iataCode": "DEL",
+            "icaoCode": "VIDP"
+          },
+          "departure": {
+            "iataCode": "BKB",
+            "icaoCode": "VIBK"
+          },
+          "flight": {
+            "iataNumber": "9I834",
+            "icaoNumber": "LLR834",
+            "number": "834"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 196,
+            "latitude": 28.56,
+            "longitude": 77.08
+          },
+          "speed": {
+            "horizontal": 33.336,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "landed",
+          "system": {
+            "squawk": null,
+            "updated": 1696850458
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B738",
+            "icao24": "780E4B",
+            "icaoCode": "B738",
+            "regNumber": "B-6488"
+          },
+          "airline": {
+            "iataCode": "MF",
+            "icaoCode": "CXA"
+          },
+          "arrival": {
+            "iataCode": "JJN",
+            "icaoCode": "ZSQZ"
+          },
+          "departure": {
+            "iataCode": "MNL",
+            "icaoCode": "RPLL"
+          },
+          "flight": {
+            "iataNumber": "MF818",
+            "icaoNumber": "CXA818",
+            "number": "818"
+          },
+          "geography": {
+            "altitude": 11582.4,
+            "direction": 310,
+            "latitude": 18.89,
+            "longitude": 117.96
+          },
+          "speed": {
+            "horizontal": 837.104,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851355
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "E195",
+            "icao24": "48ADA2",
+            "icaoCode": "E195",
+            "regNumber": "SP-LNC"
+          },
+          "airline": {
+            "iataCode": "LO",
+            "icaoCode": "LOT"
+          },
+          "arrival": {
+            "iataCode": "WAW",
+            "icaoCode": "EPWA"
+          },
+          "departure": {
+            "iataCode": "OSL",
+            "icaoCode": "ENGM"
+          },
+          "flight": {
+            "iataNumber": "LO482",
+            "icaoNumber": "LOT48F",
+            "number": "482"
+          },
+          "geography": {
+            "altitude": 4602.48,
+            "direction": 167,
+            "latitude": 59.67,
+            "longitude": 11.81
+          },
+          "speed": {
+            "horizontal": 722.28,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851063
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B763",
+            "icao24": "861E70",
+            "icaoCode": "B763",
+            "regNumber": "JA611A"
+          },
+          "airline": {
+            "iataCode": "NH",
+            "icaoCode": "ANA"
+          },
+          "arrival": {
+            "iataCode": "OKJ",
+            "icaoCode": "RJOB"
+          },
+          "departure": {
+            "iataCode": "HND",
+            "icaoCode": "RJTT"
+          },
+          "flight": {
+            "iataNumber": "NH657",
+            "icaoNumber": "ANA657",
+            "number": "657"
+          },
+          "geography": {
+            "altitude": 632.46,
+            "direction": 58,
+            "latitude": 34.71,
+            "longitude": 133.77
+          },
+          "speed": {
+            "horizontal": 264.836,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851370
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A333",
+            "icao24": "AB15C2",
+            "icaoCode": "A333",
+            "regNumber": "N813NW"
+          },
+          "airline": {
+            "iataCode": "DL",
+            "icaoCode": "DAL"
+          },
+          "arrival": {
+            "iataCode": "DTW",
+            "icaoCode": "KDTW"
+          },
+          "departure": {
+            "iataCode": "CDG",
+            "icaoCode": "LFPG"
+          },
+          "flight": {
+            "iataNumber": "DL97",
+            "icaoNumber": "DAL97",
+            "number": "97"
+          },
+          "geography": {
+            "altitude": 10972.8,
+            "direction": 270,
+            "latitude": 50.04,
+            "longitude": -17.97
+          },
+          "speed": {
+            "horizontal": 818.584,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851353
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "GRND",
+            "icao24": "48469C",
+            "icaoCode": "GRND",
+            "regNumber": "KV4"
+          },
+          "airline": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "flight": {
+            "iataNumber": "XXD",
+            "icaoNumber": "KV4",
+            "number": "XXF"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 225,
+            "latitude": 52.33,
+            "longitude": 4.72
+          },
+          "speed": {
+            "horizontal": 0,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "unknown",
+          "system": {
+            "squawk": null,
+            "updated": 1696851003
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B738",
+            "icao24": "8681B3",
+            "icaoCode": "B738",
+            "regNumber": "JA73NM"
+          },
+          "airline": {
+            "iataCode": "BC",
+            "icaoCode": "SKY"
+          },
+          "arrival": {
+            "iataCode": "HND",
+            "icaoCode": "RJTT"
+          },
+          "departure": {
+            "iataCode": "KOJ",
+            "icaoCode": "RJFK"
+          },
+          "flight": {
+            "iataNumber": "BC308",
+            "icaoNumber": "SKY308",
+            "number": "308"
+          },
+          "geography": {
+            "altitude": 5829.3,
+            "direction": 66,
+            "latitude": 31.76,
+            "longitude": 131.39
+          },
+          "speed": {
+            "horizontal": 792.656,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851370
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A20N",
+            "icao24": "8013EA",
+            "icaoCode": "A20N",
+            "regNumber": "VT-TNX"
+          },
+          "airline": {
+            "iataCode": "UK",
+            "icaoCode": "VTI"
+          },
+          "arrival": {
+            "iataCode": "DEL",
+            "icaoCode": "VIDP"
+          },
+          "departure": {
+            "iataCode": "BOM",
+            "icaoCode": "VABB"
+          },
+          "flight": {
+            "iataNumber": "UK944",
+            "icaoNumber": "VTI944",
+            "number": "944"
+          },
+          "geography": {
+            "altitude": 1036.32,
+            "direction": 283,
+            "latitude": 28.48,
+            "longitude": 77.38
+          },
+          "speed": {
+            "horizontal": 350.028,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851366
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B738",
+            "icao24": "868089",
+            "icaoCode": "B738",
+            "regNumber": "JA73AB"
+          },
+          "airline": {
+            "iataCode": "BC",
+            "icaoCode": "SKY"
+          },
+          "arrival": {
+            "iataCode": "CTS",
+            "icaoCode": "RJCC"
+          },
+          "departure": {
+            "iataCode": "UKB",
+            "icaoCode": "RJBE"
+          },
+          "flight": {
+            "iataNumber": "BC175",
+            "icaoNumber": "SKY175",
+            "number": "175"
+          },
+          "geography": {
+            "altitude": 388.62,
+            "direction": 172,
+            "latitude": 42.86,
+            "longitude": 141.68
+          },
+          "speed": {
+            "horizontal": 238.908,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "unknown",
+          "system": {
+            "squawk": null,
+            "updated": 1696850703
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B77W",
+            "icao24": "394A02",
+            "icaoCode": "B77W",
+            "regNumber": "F-GSQC"
+          },
+          "airline": {
+            "iataCode": "AF",
+            "icaoCode": "AFR"
+          },
+          "arrival": {
+            "iataCode": "LAX",
+            "icaoCode": "KLAX"
+          },
+          "departure": {
+            "iataCode": "CDG",
+            "icaoCode": "LFPG"
+          },
+          "flight": {
+            "iataNumber": "AF66",
+            "icaoNumber": "AFR066",
+            "number": "66"
+          },
+          "geography": {
+            "altitude": 9753.6,
+            "direction": 283,
+            "latitude": 54.63,
+            "longitude": -24.49
+          },
+          "speed": {
+            "horizontal": 837.104,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851365
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A388",
+            "icao24": "896196",
+            "icaoCode": "A388",
+            "regNumber": "A6-EEW"
+          },
+          "airline": {
+            "iataCode": "EK",
+            "icaoCode": "UAE"
+          },
+          "arrival": {
+            "iataCode": "MAN",
+            "icaoCode": "EGCC"
+          },
+          "departure": {
+            "iataCode": "DXB",
+            "icaoCode": "OMDB"
+          },
+          "flight": {
+            "iataNumber": "EK17",
+            "icaoNumber": "UAE17",
+            "number": "17"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 28,
+            "latitude": 53.35,
+            "longitude": -2.28
+          },
+          "speed": {
+            "horizontal": 16.668,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "landed",
+          "system": {
+            "squawk": null,
+            "updated": 1696851064
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B77L",
+            "icao24": "868DB5",
+            "icaoCode": "B77L",
+            "regNumber": "JA771F"
+          },
+          "airline": {
+            "iataCode": "NH",
+            "icaoCode": "ANA"
+          },
+          "arrival": {
+            "iataCode": "ORD",
+            "icaoCode": "KORD"
+          },
+          "departure": {
+            "iataCode": "NRT",
+            "icaoCode": "RJAA"
+          },
+          "flight": {
+            "iataNumber": "NH8402",
+            "icaoNumber": "ANA8402",
+            "number": "8402"
+          },
+          "geography": {
+            "altitude": 10058.4,
+            "direction": 86,
+            "latitude": 47.04,
+            "longitude": -159.19
+          },
+          "speed": {
+            "horizontal": 1194.54,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851357
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A359",
+            "icao24": "8990EC",
+            "icaoCode": "A359",
+            "regNumber": "B-18917"
+          },
+          "airline": {
+            "iataCode": "CI",
+            "icaoCode": "CAL"
+          },
+          "arrival": {
+            "iataCode": "TPE",
+            "icaoCode": "RCTP"
+          },
+          "departure": {
+            "iataCode": "AMS",
+            "icaoCode": "EHAM"
+          },
+          "flight": {
+            "iataNumber": "CI74",
+            "icaoNumber": "CAL074",
+            "number": "74"
+          },
+          "geography": {
+            "altitude": 10683.2,
+            "direction": 127,
+            "latitude": 45.08,
+            "longitude": 26.35
+          },
+          "speed": {
+            "horizontal": 1055.64,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851368
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A320",
+            "icao24": "79A062",
+            "icaoCode": "A320",
+            "regNumber": "B-6013"
+          },
+          "airline": {
+            "iataCode": "MU",
+            "icaoCode": "CES"
+          },
+          "arrival": {
+            "iataCode": "KHN",
+            "icaoCode": "ZSCN"
+          },
+          "departure": {
+            "iataCode": "ZHA",
+            "icaoCode": "ZGZJ"
+          },
+          "flight": {
+            "iataNumber": "MU5175",
+            "icaoNumber": "CES5175",
+            "number": "5175"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 23,
+            "latitude": 28.86,
+            "longitude": 115.9
+          },
+          "speed": {
+            "horizontal": 240.76,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "unknown",
+          "system": {
+            "squawk": null,
+            "updated": 1696851303
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B789",
+            "icao24": "873378",
+            "icaoCode": "B789",
+            "regNumber": "JA935A"
+          },
+          "airline": {
+            "iataCode": "NH",
+            "icaoCode": "ANA"
+          },
+          "arrival": {
+            "iataCode": "FUK",
+            "icaoCode": "RJFF"
+          },
+          "departure": {
+            "iataCode": "HND",
+            "icaoCode": "RJTT"
+          },
+          "flight": {
+            "iataNumber": "NH267",
+            "icaoNumber": "ANA267",
+            "number": "267"
+          },
+          "geography": {
+            "altitude": 579.12,
+            "direction": 149,
+            "latitude": 33.75,
+            "longitude": 130.34
+          },
+          "speed": {
+            "horizontal": 338.916,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "unknown",
+          "system": {
+            "squawk": null,
+            "updated": 1696850403
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A320",
+            "icao24": "7503BF",
+            "icaoCode": "A320",
+            "regNumber": "9M-AJK"
+          },
+          "airline": {
+            "iataCode": "AK",
+            "icaoCode": "AXM"
+          },
+          "arrival": {
+            "iataCode": "SDK",
+            "icaoCode": "WBKS"
+          },
+          "departure": {
+            "iataCode": "KUL",
+            "icaoCode": "WMKK"
+          },
+          "flight": {
+            "iataNumber": "AK5194",
+            "icaoNumber": "AXM5194",
+            "number": "5194"
+          },
+          "geography": {
+            "altitude": 9448.8,
+            "direction": 75,
+            "latitude": 5.48,
+            "longitude": 114.35
+          },
+          "speed": {
+            "horizontal": 825.992,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851086
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A320",
+            "icao24": "152023",
+            "icaoCode": "A320",
+            "regNumber": "RA-73763"
+          },
+          "airline": {
+            "iataCode": "SU",
+            "icaoCode": "AFL"
+          },
+          "arrival": {
+            "iataCode": "SVO",
+            "icaoCode": "UUEE"
+          },
+          "departure": {
+            "iataCode": "MCX",
+            "icaoCode": "URML"
+          },
+          "flight": {
+            "iataNumber": "SU1053",
+            "icaoNumber": "AFL1053",
+            "number": "1053"
+          },
+          "geography": {
+            "altitude": 5417.82,
+            "direction": 352,
+            "latitude": 55.44,
+            "longitude": 37.38
+          },
+          "speed": {
+            "horizontal": 729.688,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851062
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A332",
+            "icao24": "396440",
+            "icaoCode": "A332",
+            "regNumber": "F-GZCA"
+          },
+          "airline": {
+            "iataCode": "AF",
+            "icaoCode": "AFR"
+          },
+          "arrival": {
+            "iataCode": "DEL",
+            "icaoCode": "VIDP"
+          },
+          "departure": {
+            "iataCode": "CDG",
+            "icaoCode": "LFPG"
+          },
+          "flight": {
+            "iataNumber": "AF226",
+            "icaoNumber": "AFR226",
+            "number": "226"
+          },
+          "geography": {
+            "altitude": 11277.6,
+            "direction": 99,
+            "latitude": 42.19,
+            "longitude": 33.77
+          },
+          "speed": {
+            "horizontal": 992.672,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851356
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B738",
+            "icao24": "4CA857",
+            "icaoCode": "B738",
+            "regNumber": "EI-EMO"
+          },
+          "airline": {
+            "iataCode": "FR",
+            "icaoCode": "RYR"
+          },
+          "arrival": {
+            "iataCode": "TFS",
+            "icaoCode": "GCTS"
+          },
+          "departure": {
+            "iataCode": "NAP",
+            "icaoCode": "LIRN"
+          },
+          "flight": {
+            "iataNumber": "FR8693",
+            "icaoNumber": "RYR5VR",
+            "number": "8693"
+          },
+          "geography": {
+            "altitude": 10668,
+            "direction": 259,
+            "latitude": 40.24,
+            "longitude": 6.59
+          },
+          "speed": {
+            "horizontal": 846.364,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696850777
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B77W",
+            "icao24": "C01A7D",
+            "icaoCode": "B77W",
+            "regNumber": "C-FKAU"
+          },
+          "airline": {
+            "iataCode": "AC",
+            "icaoCode": "ACA"
+          },
+          "arrival": {
+            "iataCode": "YUL",
+            "icaoCode": "CYUL"
+          },
+          "departure": {
+            "iataCode": "CDG",
+            "icaoCode": "LFPG"
+          },
+          "flight": {
+            "iataNumber": "AC875",
+            "icaoNumber": "ACA875",
+            "number": "875"
+          },
+          "geography": {
+            "altitude": 10972.8,
+            "direction": 254,
+            "latitude": 53.84,
+            "longitude": -41.4
+          },
+          "speed": {
+            "horizontal": 931.556,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851069
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A332",
+            "icao24": "396444",
+            "icaoCode": "A332",
+            "regNumber": "F-GZCE"
+          },
+          "airline": {
+            "iataCode": "AF",
+            "icaoCode": "AFR"
+          },
+          "arrival": {
+            "iataCode": "SXM",
+            "icaoCode": "TNCM"
+          },
+          "departure": {
+            "iataCode": "CDG",
+            "icaoCode": "LFPG"
+          },
+          "flight": {
+            "iataNumber": "AF498",
+            "icaoNumber": "AFR498",
+            "number": "498"
+          },
+          "geography": {
+            "altitude": 11276.4,
+            "direction": 240,
+            "latitude": 45.38,
+            "longitude": -28.32
+          },
+          "speed": {
+            "horizontal": 842.66,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851361
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A320",
+            "icao24": "A64D4D",
+            "icaoCode": "A320",
+            "regNumber": "N505JB"
+          },
+          "airline": {
+            "iataCode": "B6",
+            "icaoCode": "JBU"
+          },
+          "arrival": {
+            "iataCode": "SJU",
+            "icaoCode": "TJSJ"
+          },
+          "departure": {
+            "iataCode": "EWR",
+            "icaoCode": "KEWR"
+          },
+          "flight": {
+            "iataNumber": "B61589",
+            "icaoNumber": "JBU1589",
+            "number": "1589"
+          },
+          "geography": {
+            "altitude": 9128.76,
+            "direction": 207,
+            "latitude": 38.7,
+            "longitude": -75.45
+          },
+          "speed": {
+            "horizontal": 750.06,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851358
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "AS50",
+            "icao24": "A61FF5",
+            "icaoCode": "AS50",
+            "regNumber": "N494LG"
+          },
+          "airline": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "flight": {
+            "iataNumber": "XXD",
+            "icaoNumber": "N494LG",
+            "number": "XXF"
+          },
+          "geography": {
+            "altitude": 1684.02,
+            "direction": 308,
+            "latitude": 38.02,
+            "longitude": -103.63
+          },
+          "speed": {
+            "horizontal": 227.796,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851371
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A346",
+            "icao24": "3C6516",
+            "icaoCode": "A346",
+            "regNumber": "D-AIHV"
+          },
+          "airline": {
+            "iataCode": "LH",
+            "icaoCode": "DLH"
+          },
+          "arrival": {
+            "iataCode": "MUC",
+            "icaoCode": "EDDM"
+          },
+          "departure": {
+            "iataCode": "ORD",
+            "icaoCode": "KORD"
+          },
+          "flight": {
+            "iataNumber": "LH435",
+            "icaoNumber": "DLH4C",
+            "number": "435"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 225,
+            "latitude": 48.36,
+            "longitude": 11.79
+          },
+          "speed": {
+            "horizontal": 14.816,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "landed",
+          "system": {
+            "squawk": null,
+            "updated": 1696850743
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B77L",
+            "icao24": "3C70C9",
+            "icaoCode": "B77L",
+            "regNumber": "D-ALFI"
+          },
+          "airline": {
+            "iataCode": "GEC",
+            "icaoCode": "GEC"
+          },
+          "arrival": {
+            "iataCode": "CTU",
+            "icaoCode": "ZUUU"
+          },
+          "departure": {
+            "iataCode": "FRA",
+            "icaoCode": "EDDF"
+          },
+          "flight": {
+            "iataNumber": "LH8410",
+            "icaoNumber": "GEC8410",
+            "number": "8410"
+          },
+          "geography": {
+            "altitude": 10668,
+            "direction": 87,
+            "latitude": 40.93,
+            "longitude": 53.37
+          },
+          "speed": {
+            "horizontal": 985.264,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851080
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B77L",
+            "icao24": "3C70C3",
+            "icaoCode": "B77L",
+            "regNumber": "D-ALFC"
+          },
+          "airline": {
+            "iataCode": "GEC",
+            "icaoCode": "GEC"
+          },
+          "arrival": {
+            "iataCode": "PEK",
+            "icaoCode": "ZBAA"
+          },
+          "departure": {
+            "iataCode": "FRA",
+            "icaoCode": "EDDF"
+          },
+          "flight": {
+            "iataNumber": "LH8436",
+            "icaoNumber": "GEC8436",
+            "number": "8436"
+          },
+          "geography": {
+            "altitude": 10668,
+            "direction": 91,
+            "latitude": 41.86,
+            "longitude": 39
+          },
+          "speed": {
+            "horizontal": 1007.49,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851058
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A359",
+            "icao24": "3C6709",
+            "icaoCode": "A359",
+            "regNumber": "D-AIXI"
+          },
+          "airline": {
+            "iataCode": "LH",
+            "icaoCode": "DLH"
+          },
+          "arrival": {
+            "iataCode": "MUC",
+            "icaoCode": "EDDM"
+          },
+          "departure": {
+            "iataCode": "LAX",
+            "icaoCode": "KLAX"
+          },
+          "flight": {
+            "iataNumber": "LH453",
+            "icaoNumber": "DLH453",
+            "number": "453"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 264,
+            "latitude": 48.35,
+            "longitude": 11.79
+          },
+          "speed": {
+            "horizontal": 1.852,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "landed",
+          "system": {
+            "squawk": null,
+            "updated": 1696850750
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A320",
+            "icao24": "780EED",
+            "icaoCode": "A320",
+            "regNumber": "B-8283"
+          },
+          "airline": {
+            "iataCode": "QW",
+            "icaoCode": "QDA"
+          },
+          "arrival": {
+            "iataCode": "YTY",
+            "icaoCode": "ZSYA"
+          },
+          "departure": {
+            "iataCode": "NNG",
+            "icaoCode": "ZGNN"
+          },
+          "flight": {
+            "iataNumber": "QW6012",
+            "icaoNumber": "QDA6012",
+            "number": "6012"
+          },
+          "geography": {
+            "altitude": 5798.82,
+            "direction": 94,
+            "latitude": 31.64,
+            "longitude": 118.51
+          },
+          "speed": {
+            "horizontal": 814.88,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "unknown",
+          "system": {
+            "squawk": null,
+            "updated": 1696851303
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A359",
+            "icao24": "3C6711",
+            "icaoCode": "A359",
+            "regNumber": "D-AIXQ"
+          },
+          "airline": {
+            "iataCode": "LH",
+            "icaoCode": "DLH"
+          },
+          "arrival": {
+            "iataCode": "MUC",
+            "icaoCode": "EDDM"
+          },
+          "departure": {
+            "iataCode": "ICN",
+            "icaoCode": "RKSI"
+          },
+          "flight": {
+            "iataNumber": "LH719",
+            "icaoNumber": "DLH719",
+            "number": "719"
+          },
+          "geography": {
+            "altitude": 12192,
+            "direction": 232,
+            "latitude": 42.95,
+            "longitude": 51.38
+          },
+          "speed": {
+            "horizontal": 792.656,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "unknown",
+          "system": {
+            "squawk": null,
+            "updated": 1696851303
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B788",
+            "icao24": "A34358",
+            "icaoCode": "B788",
+            "regNumber": "N30913"
+          },
+          "airline": {
+            "iataCode": "UA",
+            "icaoCode": "UAL"
+          },
+          "arrival": {
+            "iataCode": "ORD",
+            "icaoCode": "KORD"
+          },
+          "departure": {
+            "iataCode": "AMS",
+            "icaoCode": "EHAM"
+          },
+          "flight": {
+            "iataNumber": "UA908",
+            "icaoNumber": "UAL908",
+            "number": "908"
+          },
+          "geography": {
+            "altitude": 11582.4,
+            "direction": 269,
+            "latitude": 52.07,
+            "longitude": -11.9
+          },
+          "speed": {
+            "horizontal": 796.36,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851359
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B78X",
+            "icao24": "A07DC8",
+            "icaoCode": "B78X",
+            "regNumber": "N13013"
+          },
+          "airline": {
+            "iataCode": "UA",
+            "icaoCode": "UAL"
+          },
+          "arrival": {
+            "iataCode": "ORD",
+            "icaoCode": "KORD"
+          },
+          "departure": {
+            "iataCode": "HNL",
+            "icaoCode": "PHNL"
+          },
+          "flight": {
+            "iataNumber": "UA218",
+            "icaoNumber": "UAL218",
+            "number": "218"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 157,
+            "latitude": 41.98,
+            "longitude": -87.91
+          },
+          "speed": {
+            "horizontal": 0,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "landed",
+          "system": {
+            "squawk": null,
+            "updated": 1696850776
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A320",
+            "icao24": "4009C5",
+            "icaoCode": "A320",
+            "regNumber": "G-EUUH"
+          },
+          "airline": {
+            "iataCode": "BA",
+            "icaoCode": "BAW"
+          },
+          "arrival": {
+            "iataCode": "LHR",
+            "icaoCode": "EGLL"
+          },
+          "departure": {
+            "iataCode": "ABZ",
+            "icaoCode": "EGPD"
+          },
+          "flight": {
+            "iataNumber": "BA1307",
+            "icaoNumber": "SHT19M",
+            "number": "1307"
+          },
+          "geography": {
+            "altitude": 11300.5,
+            "direction": 156,
+            "latitude": 53.71,
+            "longitude": -2.53
+          },
+          "speed": {
+            "horizontal": 951.928,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851064
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A321",
+            "icao24": "151EDC",
+            "icaoCode": "A321",
+            "regNumber": "RA-73436"
+          },
+          "airline": {
+            "iataCode": "S7",
+            "icaoCode": "SBI"
+          },
+          "arrival": {
+            "iataCode": "OVB",
+            "icaoCode": "UNNT"
+          },
+          "departure": {
+            "iataCode": "DME",
+            "icaoCode": "UUDD"
+          },
+          "flight": {
+            "iataNumber": "S72505",
+            "icaoNumber": "SBI2505",
+            "number": "2505"
+          },
+          "geography": {
+            "altitude": 10668,
+            "direction": 97,
+            "latitude": 55.35,
+            "longitude": 78.42
+          },
+          "speed": {
+            "horizontal": 914.888,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851094
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A21N",
+            "icao24": "781CA9",
+            "icaoCode": "A21N",
+            "regNumber": "B-326X"
+          },
+          "airline": {
+            "iataCode": "CA",
+            "icaoCode": "CCA"
+          },
+          "arrival": {
+            "iataCode": "CGQ",
+            "icaoCode": "ZYCC"
+          },
+          "departure": {
+            "iataCode": "CTU",
+            "icaoCode": "ZUUU"
+          },
+          "flight": {
+            "iataNumber": "CA4039",
+            "icaoNumber": "CCA4039",
+            "number": "4039"
+          },
+          "geography": {
+            "altitude": 9745.98,
+            "direction": 34,
+            "latitude": 33.3,
+            "longitude": 108.29
+          },
+          "speed": {
+            "horizontal": 922.296,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851364
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B77W",
+            "icao24": "151DB8",
+            "icaoCode": "B77W",
+            "regNumber": "RA-73144"
+          },
+          "airline": {
+            "iataCode": "SU",
+            "icaoCode": "AFL"
+          },
+          "arrival": {
+            "iataCode": "IST",
+            "icaoCode": "LTBA"
+          },
+          "departure": {
+            "iataCode": "SVO",
+            "icaoCode": "UUEE"
+          },
+          "flight": {
+            "iataNumber": "SU2136",
+            "icaoNumber": "AFL2136",
+            "number": "2136"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 168,
+            "latitude": 41.27,
+            "longitude": 28.74
+          },
+          "speed": {
+            "horizontal": 11.112,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "landed",
+          "system": {
+            "squawk": null,
+            "updated": 1696850764
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B748",
+            "icao24": "8478AB",
+            "icaoCode": "B748",
+            "regNumber": "JA18KZ"
+          },
+          "airline": {
+            "iataCode": "KZ",
+            "icaoCode": "NCA"
+          },
+          "arrival": {
+            "iataCode": "ANC",
+            "icaoCode": "PANC"
+          },
+          "departure": {
+            "iataCode": "ORD",
+            "icaoCode": "KORD"
+          },
+          "flight": {
+            "iataNumber": "KZ133",
+            "icaoNumber": "NCA133",
+            "number": "133"
+          },
+          "geography": {
+            "altitude": 11582.4,
+            "direction": 302,
+            "latitude": 54.22,
+            "longitude": -113.82
+          },
+          "speed": {
+            "horizontal": 868.588,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851369
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B789",
+            "icao24": "C02ECA",
+            "icaoCode": "B789",
+            "regNumber": "C-FRSR"
+          },
+          "airline": {
+            "iataCode": "AC",
+            "icaoCode": "ACA"
+          },
+          "arrival": {
+            "iataCode": "YVR",
+            "icaoCode": "CYVR"
+          },
+          "departure": {
+            "iataCode": "ICN",
+            "icaoCode": "RKSI"
+          },
+          "flight": {
+            "iataNumber": "AC64",
+            "icaoNumber": "ACA064",
+            "number": "64"
+          },
+          "geography": {
+            "altitude": 10971.6,
+            "direction": 58,
+            "latitude": 39.23,
+            "longitude": 149.32
+          },
+          "speed": {
+            "horizontal": 1105.64,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851089
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B739",
+            "icao24": "AB1FFE",
+            "icaoCode": "B739",
+            "regNumber": "N816DN"
+          },
+          "airline": {
+            "iataCode": "DL",
+            "icaoCode": "DAL"
+          },
+          "arrival": {
+            "iataCode": "TPA",
+            "icaoCode": "KTPA"
+          },
+          "departure": {
+            "iataCode": "JFK",
+            "icaoCode": "KJFK"
+          },
+          "flight": {
+            "iataNumber": "DL1419",
+            "icaoNumber": "DAL1419",
+            "number": "1419"
+          },
+          "geography": {
+            "altitude": 3474.72,
+            "direction": 237,
+            "latitude": 40.38,
+            "longitude": -74.12
+          },
+          "speed": {
+            "horizontal": 635.236,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851359
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A21N",
+            "icao24": "A57D42",
+            "icaoCode": "A21N",
+            "regNumber": "N453AA"
+          },
+          "airline": {
+            "iataCode": "AA",
+            "icaoCode": "AAL"
+          },
+          "arrival": {
+            "iataCode": "DFW",
+            "icaoCode": "KDFW"
+          },
+          "departure": {
+            "iataCode": "ANC",
+            "icaoCode": "PANC"
+          },
+          "flight": {
+            "iataNumber": "AA399",
+            "icaoNumber": "AAL399",
+            "number": "399"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 118,
+            "latitude": 32.89,
+            "longitude": -97.04
+          },
+          "speed": {
+            "horizontal": 0,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "landed",
+          "system": {
+            "squawk": null,
+            "updated": 1696851359
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "GRND",
+            "icao24": "80084B",
+            "icaoCode": "GRND",
+            "regNumber": "XXB"
+          },
+          "airline": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "flight": {
+            "iataNumber": "XXD",
+            "icaoNumber": "FOLOWME4",
+            "number": "XXF"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 89,
+            "latitude": 13.2,
+            "longitude": 77.72
+          },
+          "speed": {
+            "horizontal": 0,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "started",
+          "system": {
+            "squawk": null,
+            "updated": 1696851368
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A321",
+            "icao24": "AD9F7F",
+            "icaoCode": "A321",
+            "regNumber": "N977UY"
+          },
+          "airline": {
+            "iataCode": "AA",
+            "icaoCode": "AAL"
+          },
+          "arrival": {
+            "iataCode": "DFW",
+            "icaoCode": "KDFW"
+          },
+          "departure": {
+            "iataCode": "BUF",
+            "icaoCode": "KBUF"
+          },
+          "flight": {
+            "iataNumber": "AA576",
+            "icaoNumber": "AAL576",
+            "number": "576"
+          },
+          "geography": {
+            "altitude": 8534.4,
+            "direction": 237,
+            "latitude": 41.26,
+            "longitude": -83.71
+          },
+          "speed": {
+            "horizontal": 879.7,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851080
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "GRND",
+            "icao24": "4B5DA8",
+            "icaoCode": "GRND",
+            "regNumber": "TJ4"
+          },
+          "airline": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "flight": {
+            "iataNumber": "XXD",
+            "icaoNumber": "ATL778",
+            "number": "XXF"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 123,
+            "latitude": 47.46,
+            "longitude": 8.56
+          },
+          "speed": {
+            "horizontal": 0,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "started",
+          "system": {
+            "squawk": null,
+            "updated": 1696850775
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "E295",
+            "icao24": "486493",
+            "icaoCode": "E295",
+            "regNumber": "PH-NXJ"
+          },
+          "airline": {
+            "iataCode": "KL",
+            "icaoCode": "KLM"
+          },
+          "arrival": {
+            "iataCode": "AMS",
+            "icaoCode": "EHAM"
+          },
+          "departure": {
+            "iataCode": "TLS",
+            "icaoCode": "LFBO"
+          },
+          "flight": {
+            "iataNumber": "KL1302",
+            "icaoNumber": "KLM1302",
+            "number": "1302"
+          },
+          "geography": {
+            "altitude": 2468.88,
+            "direction": 64,
+            "latitude": 51.98,
+            "longitude": 4.32
+          },
+          "speed": {
+            "horizontal": 577.824,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696850482
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A20N",
+            "icao24": "800BD4",
+            "icaoCode": "A20N",
+            "regNumber": "VT-EXF"
+          },
+          "airline": {
+            "iataCode": "AI",
+            "icaoCode": "AIC"
+          },
+          "arrival": {
+            "iataCode": "PNQ",
+            "icaoCode": "VAPO"
+          },
+          "departure": {
+            "iataCode": "DEL",
+            "icaoCode": "VIDP"
+          },
+          "flight": {
+            "iataNumber": "AI849",
+            "icaoNumber": "AIC849",
+            "number": "849"
+          },
+          "geography": {
+            "altitude": 10972.8,
+            "direction": 200,
+            "latitude": 21.98,
+            "longitude": 73.89
+          },
+          "speed": {
+            "horizontal": 842.66,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851363
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A20N",
+            "icao24": "800C8F",
+            "icaoCode": "A20N",
+            "regNumber": "VT-TNI"
+          },
+          "airline": {
+            "iataCode": "UK",
+            "icaoCode": "VTI"
+          },
+          "arrival": {
+            "iataCode": "GAU",
+            "icaoCode": "VEGT"
+          },
+          "departure": {
+            "iataCode": "DEL",
+            "icaoCode": "VIDP"
+          },
+          "flight": {
+            "iataNumber": "UK721",
+            "icaoNumber": "VTI721",
+            "number": "721"
+          },
+          "geography": {
+            "altitude": 4724.4,
+            "direction": 130,
+            "latitude": 26.06,
+            "longitude": 90.63
+          },
+          "speed": {
+            "horizontal": 735.244,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851058
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B789",
+            "icao24": "4BB188",
+            "icaoCode": "B789",
+            "regNumber": "TC-LLH"
+          },
+          "airline": {
+            "iataCode": "TK",
+            "icaoCode": "THY"
+          },
+          "arrival": {
+            "iataCode": "IST",
+            "icaoCode": "LTBA"
+          },
+          "departure": {
+            "iataCode": "ATL",
+            "icaoCode": "KATL"
+          },
+          "flight": {
+            "iataNumber": "TK32",
+            "icaoNumber": "THY32G",
+            "number": "32"
+          },
+          "geography": {
+            "altitude": 464.82,
+            "direction": 359,
+            "latitude": 41.19,
+            "longitude": 28.71
+          },
+          "speed": {
+            "horizontal": 272.244,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851367
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B738",
+            "icao24": "4BAB45",
+            "icaoCode": "B738",
+            "regNumber": "TC-JZE"
+          },
+          "airline": {
+            "iataCode": "TK",
+            "icaoCode": "THY"
+          },
+          "arrival": {
+            "iataCode": "GNY",
+            "icaoCode": "LTCS"
+          },
+          "departure": {
+            "iataCode": "IST",
+            "icaoCode": "LTBA"
+          },
+          "flight": {
+            "iataNumber": "TK2244",
+            "icaoNumber": "THY3NU",
+            "number": "2244"
+          },
+          "geography": {
+            "altitude": 11887.2,
+            "direction": 102,
+            "latitude": 40.33,
+            "longitude": 31.55
+          },
+          "speed": {
+            "horizontal": 914.888,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851363
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A20N",
+            "icao24": "46B8B1",
+            "icaoCode": "A20N",
+            "regNumber": "SX-NEQ"
+          },
+          "airline": {
+            "iataCode": "A3",
+            "icaoCode": "AEE"
+          },
+          "arrival": {
+            "iataCode": "ATH",
+            "icaoCode": "LGAV"
+          },
+          "departure": {
+            "iataCode": "BRU",
+            "icaoCode": "EBBR"
+          },
+          "flight": {
+            "iataNumber": "A3621",
+            "icaoNumber": "AEE3BR",
+            "number": "621"
+          },
+          "geography": {
+            "altitude": 11879.6,
+            "direction": 153,
+            "latitude": 40.73,
+            "longitude": 22.12
+          },
+          "speed": {
+            "horizontal": 896.368,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851072
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A320",
+            "icao24": "781259",
+            "icaoCode": "A320",
+            "regNumber": "B-8895"
+          },
+          "airline": {
+            "iataCode": "GJ",
+            "icaoCode": "CDC"
+          },
+          "arrival": {
+            "iataCode": "LYI",
+            "icaoCode": "ZSLY"
+          },
+          "departure": {
+            "iataCode": "ZUH",
+            "icaoCode": "ZGSD"
+          },
+          "flight": {
+            "iataNumber": "GJ8580",
+            "icaoNumber": "CDC8580",
+            "number": "8580"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 225,
+            "latitude": 22,
+            "longitude": 113.37
+          },
+          "speed": {
+            "horizontal": 37.04,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "started",
+          "system": {
+            "squawk": null,
+            "updated": 1696850724
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A333",
+            "icao24": "AB20E7",
+            "icaoCode": "A333",
+            "regNumber": "N816NW"
+          },
+          "airline": {
+            "iataCode": "DL",
+            "icaoCode": "DAL"
+          },
+          "arrival": {
+            "iataCode": "ATL",
+            "icaoCode": "KATL"
+          },
+          "departure": {
+            "iataCode": "GRU",
+            "icaoCode": "SBGR"
+          },
+          "flight": {
+            "iataNumber": "DL104",
+            "icaoNumber": "DAL104",
+            "number": "104"
+          },
+          "geography": {
+            "altitude": 11887.2,
+            "direction": 308,
+            "latitude": 27.87,
+            "longitude": -79.2
+          },
+          "speed": {
+            "horizontal": 753.764,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851358
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A333",
+            "icao24": "3C656D",
+            "icaoCode": "A333",
+            "regNumber": "D-AIKM"
+          },
+          "airline": {
+            "iataCode": "LH",
+            "icaoCode": "DLH"
+          },
+          "arrival": {
+            "iataCode": "JFK",
+            "icaoCode": "KJFK"
+          },
+          "departure": {
+            "iataCode": "FRA",
+            "icaoCode": "EDDF"
+          },
+          "flight": {
+            "iataNumber": "LH400",
+            "icaoNumber": "DLH400",
+            "number": "400"
+          },
+          "geography": {
+            "altitude": 10972.8,
+            "direction": 274,
+            "latitude": 50.03,
+            "longitude": -15.44
+          },
+          "speed": {
+            "horizontal": 805.62,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851353
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B788",
+            "icao24": "040088",
+            "icaoCode": "B788",
+            "regNumber": "ET-ARF"
+          },
+          "airline": {
+            "iataCode": "ET",
+            "icaoCode": "ETH"
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "ADD",
+            "icaoCode": "HAAB"
+          },
+          "flight": {
+            "iataNumber": "ET8999",
+            "icaoNumber": "ETH8999",
+            "number": "8999"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 255,
+            "latitude": 8.98,
+            "longitude": 38.79
+          },
+          "speed": {
+            "horizontal": 0,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "started",
+          "system": {
+            "squawk": null,
+            "updated": 1696851059
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B38M",
+            "icao24": "8964CF",
+            "icaoCode": "B38M",
+            "regNumber": "A6-MAX"
+          },
+          "airline": {
+            "iataCode": "FZ",
+            "icaoCode": "FDB"
+          },
+          "arrival": {
+            "iataCode": "BEG",
+            "icaoCode": "LYBE"
+          },
+          "departure": {
+            "iataCode": "DXB",
+            "icaoCode": "OMDB"
+          },
+          "flight": {
+            "iataNumber": "FZ1745",
+            "icaoNumber": "FDB9YD",
+            "number": "1745"
+          },
+          "geography": {
+            "altitude": 3863.34,
+            "direction": 302,
+            "latitude": 44.82,
+            "longitude": 20.56
+          },
+          "speed": {
+            "horizontal": 557.452,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851072
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A20N",
+            "icao24": "800D36",
+            "icaoCode": "A20N",
+            "regNumber": "VT-IZM"
+          },
+          "airline": {
+            "iataCode": "6E",
+            "icaoCode": "IGO"
+          },
+          "arrival": {
+            "iataCode": "UDR",
+            "icaoCode": "VAUD"
+          },
+          "departure": {
+            "iataCode": "DEL",
+            "icaoCode": "VIDP"
+          },
+          "flight": {
+            "iataNumber": "6E275",
+            "icaoNumber": "IGO275",
+            "number": "275"
+          },
+          "geography": {
+            "altitude": 10294.6,
+            "direction": 203,
+            "latitude": 26.81,
+            "longitude": 75.83
+          },
+          "speed": {
+            "horizontal": 814.88,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851366
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A21N",
+            "icao24": "8990EA",
+            "icaoCode": "A21N",
+            "regNumber": "B-18108"
+          },
+          "airline": {
+            "iataCode": "CI",
+            "icaoCode": "CAL"
+          },
+          "arrival": {
+            "iataCode": "TPE",
+            "icaoCode": "RCTP"
+          },
+          "departure": {
+            "iataCode": "HKG",
+            "icaoCode": "VHHH"
+          },
+          "flight": {
+            "iataNumber": "CI916",
+            "icaoNumber": "CAL916",
+            "number": "916"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 129,
+            "latitude": 25.09,
+            "longitude": 121.24
+          },
+          "speed": {
+            "horizontal": 12.964,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "landed",
+          "system": {
+            "squawk": null,
+            "updated": 1696850459
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B789",
+            "icao24": "AB6AFA",
+            "icaoCode": "B789",
+            "regNumber": "N835AN"
+          },
+          "airline": {
+            "iataCode": "AA",
+            "icaoCode": "AAL"
+          },
+          "arrival": {
+            "iataCode": "DFW",
+            "icaoCode": "KDFW"
+          },
+          "departure": {
+            "iataCode": "CDG",
+            "icaoCode": "LFPG"
+          },
+          "flight": {
+            "iataNumber": "AA49",
+            "icaoNumber": "AAL49",
+            "number": "49"
+          },
+          "geography": {
+            "altitude": 10363.2,
+            "direction": 307,
+            "latitude": 51.74,
+            "longitude": -12.26
+          },
+          "speed": {
+            "horizontal": 872.292,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851359
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A35K",
+            "icao24": "896597",
+            "icaoCode": "A35K",
+            "regNumber": "A6-XWB"
+          },
+          "airline": {
+            "iataCode": "EY",
+            "icaoCode": "ETD"
+          },
+          "arrival": {
+            "iataCode": "AUH",
+            "icaoCode": "OMAA"
+          },
+          "departure": {
+            "iataCode": "CDG",
+            "icaoCode": "LFPG"
+          },
+          "flight": {
+            "iataNumber": "EY32",
+            "icaoNumber": "ETD11K",
+            "number": "32"
+          },
+          "geography": {
+            "altitude": 11277.6,
+            "direction": 122,
+            "latitude": 42.61,
+            "longitude": 29.11
+          },
+          "speed": {
+            "horizontal": 1038.97,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696850770
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B748",
+            "icao24": "8466C7",
+            "icaoCode": "B748",
+            "regNumber": "JA13KZ"
+          },
+          "airline": {
+            "iataCode": "KZ",
+            "icaoCode": "NCA"
+          },
+          "arrival": {
+            "iataCode": "NRT",
+            "icaoCode": "RJAA"
+          },
+          "departure": {
+            "iataCode": "MXP",
+            "icaoCode": "LIMC"
+          },
+          "flight": {
+            "iataNumber": "KZ49",
+            "icaoNumber": "NCA049",
+            "number": "49"
+          },
+          "geography": {
+            "altitude": 11277.6,
+            "direction": 107,
+            "latitude": 37.03,
+            "longitude": 128.94
+          },
+          "speed": {
+            "horizontal": 1051.94,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851057
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B77W",
+            "icao24": "4BB14A",
+            "icaoCode": "B77W",
+            "regNumber": "TC-LJJ"
+          },
+          "airline": {
+            "iataCode": "TK",
+            "icaoCode": "THY"
+          },
+          "arrival": {
+            "iataCode": "IST",
+            "icaoCode": "LTBA"
+          },
+          "departure": {
+            "iataCode": "ORD",
+            "icaoCode": "KORD"
+          },
+          "flight": {
+            "iataNumber": "TK6",
+            "icaoNumber": "THY6",
+            "number": "6"
+          },
+          "geography": {
+            "altitude": 9113.52,
+            "direction": 140,
+            "latitude": 42.58,
+            "longitude": 28.21
+          },
+          "speed": {
+            "horizontal": 888.96,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851367
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "G2CA",
+            "icao24": "40774F",
+            "icaoCode": "G2CA",
+            "regNumber": "G-SHAZ"
+          },
+          "airline": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "QUG",
+            "icaoCode": "EGHR"
+          },
+          "flight": {
+            "iataNumber": "XXD",
+            "icaoNumber": "GSHAZ",
+            "number": "XXF"
+          },
+          "geography": {
+            "altitude": 640.08,
+            "direction": 80,
+            "latitude": 50.9,
+            "longitude": -0.4
+          },
+          "speed": {
+            "horizontal": 157.42,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696850458
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B748",
+            "icao24": "71BE30",
+            "icaoCode": "B748",
+            "regNumber": "HL7630"
+          },
+          "airline": {
+            "iataCode": "KE",
+            "icaoCode": "KAL"
+          },
+          "arrival": {
+            "iataCode": "ATL",
+            "icaoCode": "KATL"
+          },
+          "departure": {
+            "iataCode": "ICN",
+            "icaoCode": "RKSI"
+          },
+          "flight": {
+            "iataNumber": "KE35",
+            "icaoNumber": "KAL035",
+            "number": "35"
+          },
+          "geography": {
+            "altitude": 11277.6,
+            "direction": 120,
+            "latitude": 41.48,
+            "longitude": -96.14
+          },
+          "speed": {
+            "horizontal": 977.856,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851369
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "P208",
+            "icao24": "3007AF",
+            "icaoCode": "P208",
+            "regNumber": "I-CNTF"
+          },
+          "airline": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "flight": {
+            "iataNumber": "XXD",
+            "icaoNumber": "ICNTF",
+            "number": "XXF"
+          },
+          "geography": {
+            "altitude": 182.88,
+            "direction": 23,
+            "latitude": 45.72,
+            "longitude": 9.6
+          },
+          "speed": {
+            "horizontal": 138.9,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "unknown",
+          "system": {
+            "squawk": null,
+            "updated": 1696851003
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B763",
+            "icao24": "A1863B",
+            "icaoCode": "B763",
+            "regNumber": "N198DN"
+          },
+          "airline": {
+            "iataCode": "DL",
+            "icaoCode": "DAL"
+          },
+          "arrival": {
+            "iataCode": "JFK",
+            "icaoCode": "KJFK"
+          },
+          "departure": {
+            "iataCode": "MAD",
+            "icaoCode": "LEMD"
+          },
+          "flight": {
+            "iataNumber": "DL127",
+            "icaoNumber": "DAL127",
+            "number": "127"
+          },
+          "geography": {
+            "altitude": 10363.2,
+            "direction": 342,
+            "latitude": 47.18,
+            "longitude": -20.55
+          },
+          "speed": {
+            "horizontal": 907.48,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "unknown",
+          "system": {
+            "squawk": null,
+            "updated": 1696850403
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A21N",
+            "icao24": "010247",
+            "icaoCode": "A21N",
+            "regNumber": "SU-GFW"
+          },
+          "airline": {
+            "iataCode": "MS",
+            "icaoCode": "MSR"
+          },
+          "arrival": {
+            "iataCode": "AMS",
+            "icaoCode": "EHAM"
+          },
+          "departure": {
+            "iataCode": "CAI",
+            "icaoCode": "HECA"
+          },
+          "flight": {
+            "iataNumber": "MS757",
+            "icaoNumber": "MSR757",
+            "number": "757"
+          },
+          "geography": {
+            "altitude": 10355.6,
+            "direction": 312,
+            "latitude": 48.77,
+            "longitude": 13.1
+          },
+          "speed": {
+            "horizontal": 713.02,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851062
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B738",
+            "icao24": "344297",
+            "icaoCode": "B738",
+            "regNumber": "EC-LQX"
+          },
+          "airline": {
+            "iataCode": "UX",
+            "icaoCode": "AEA"
+          },
+          "arrival": {
+            "iataCode": "MAD",
+            "icaoCode": "LEMD"
+          },
+          "departure": {
+            "iataCode": "TFN",
+            "icaoCode": "GCXO"
+          },
+          "flight": {
+            "iataNumber": "UX9047",
+            "icaoNumber": "AEA9047",
+            "number": "9047"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 154,
+            "latitude": 40.48,
+            "longitude": -3.57
+          },
+          "speed": {
+            "horizontal": 24.076,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "landed",
+          "system": {
+            "squawk": null,
+            "updated": 1696851044
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A333",
+            "icao24": "71BF93",
+            "icaoCode": "A333",
+            "regNumber": "HL7793"
+          },
+          "airline": {
+            "iataCode": "OZ",
+            "icaoCode": "AAR"
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "GMP",
+            "icaoCode": "RKSS"
+          },
+          "flight": {
+            "iataNumber": "OZ8972",
+            "icaoNumber": "AAR8972",
+            "number": "8972"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 225,
+            "latitude": 37.55,
+            "longitude": 126.8
+          },
+          "speed": {
+            "horizontal": 0,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "started",
+          "system": {
+            "squawk": null,
+            "updated": 1696851362
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A21N",
+            "icao24": "A599A8",
+            "icaoCode": "A21N",
+            "regNumber": "N460AN"
+          },
+          "airline": {
+            "iataCode": "AA",
+            "icaoCode": "AAL"
+          },
+          "arrival": {
+            "iataCode": "MIA",
+            "icaoCode": "KMIA"
+          },
+          "departure": {
+            "iataCode": "LAX",
+            "icaoCode": "KLAX"
+          },
+          "flight": {
+            "iataNumber": "AA340",
+            "icaoNumber": "AAL340",
+            "number": "340"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 75,
+            "latitude": 25.8,
+            "longitude": -80.28
+          },
+          "speed": {
+            "horizontal": 11.112,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "landed",
+          "system": {
+            "squawk": null,
+            "updated": 1696850756
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "PC12",
+            "icao24": "7C4A10",
+            "icaoCode": "PC12",
+            "regNumber": "VH-OWY"
+          },
+          "airline": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "flight": {
+            "iataNumber": "XXD",
+            "icaoNumber": "FD621",
+            "number": "XXF"
+          },
+          "geography": {
+            "altitude": 220.98,
+            "direction": 145,
+            "latitude": -32.07,
+            "longitude": 115.9
+          },
+          "speed": {
+            "horizontal": 161.124,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "unknown",
+          "system": {
+            "squawk": null,
+            "updated": 1696850403
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A320",
+            "icao24": "780B6E",
+            "icaoCode": "A320",
+            "regNumber": "B-9961"
+          },
+          "airline": {
+            "iataCode": "JD",
+            "icaoCode": "CBJ"
+          },
+          "arrival": {
+            "iataCode": "FOC",
+            "icaoCode": "ZSFZ"
+          },
+          "departure": {
+            "iataCode": "SHE",
+            "icaoCode": "ZYTX"
+          },
+          "flight": {
+            "iataNumber": "JD5618",
+            "icaoNumber": "CBJ5618",
+            "number": "5618"
+          },
+          "geography": {
+            "altitude": 7680.96,
+            "direction": 256,
+            "latitude": 27.84,
+            "longitude": 121.04
+          },
+          "speed": {
+            "horizontal": 779.692,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696850757
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B789",
+            "icao24": "AB3FC4",
+            "icaoCode": "B789",
+            "regNumber": "N824AN"
+          },
+          "airline": {
+            "iataCode": "AA",
+            "icaoCode": "AAL"
+          },
+          "arrival": {
+            "iataCode": "DFW",
+            "icaoCode": "KDFW"
+          },
+          "departure": {
+            "iataCode": "MAD",
+            "icaoCode": "LEMD"
+          },
+          "flight": {
+            "iataNumber": "AA37",
+            "icaoNumber": "AAL37",
+            "number": "37"
+          },
+          "geography": {
+            "altitude": 10058.4,
+            "direction": 292,
+            "latitude": 43.38,
+            "longitude": -10.84
+          },
+          "speed": {
+            "horizontal": 987.116,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851357
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A20N",
+            "icao24": "15205E",
+            "icaoCode": "A20N",
+            "regNumber": "RA-73822"
+          },
+          "airline": {
+            "iataCode": "U6",
+            "icaoCode": "SVR"
+          },
+          "arrival": {
+            "iataCode": "DME",
+            "icaoCode": "UUDD"
+          },
+          "departure": {
+            "iataCode": "BQS",
+            "icaoCode": "UHBB"
+          },
+          "flight": {
+            "iataNumber": "U6350",
+            "icaoNumber": "SVR350",
+            "number": "350"
+          },
+          "geography": {
+            "altitude": 3268.98,
+            "direction": 167,
+            "latitude": 55.5,
+            "longitude": 37.91
+          },
+          "speed": {
+            "horizontal": 500.04,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "unknown",
+          "system": {
+            "squawk": null,
+            "updated": 1696851303
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B738",
+            "icao24": "151E1F",
+            "icaoCode": "B738",
+            "regNumber": "RA-73247"
+          },
+          "airline": {
+            "iataCode": "DP",
+            "icaoCode": "PBD"
+          },
+          "arrival": {
+            "iataCode": "VKO",
+            "icaoCode": "UUWW"
+          },
+          "departure": {
+            "iataCode": "GZP",
+            "icaoCode": "LTFG"
+          },
+          "flight": {
+            "iataNumber": "DP836",
+            "icaoNumber": "PBD836",
+            "number": "836"
+          },
+          "geography": {
+            "altitude": 5768.34,
+            "direction": 40,
+            "latitude": 36.51,
+            "longitude": 32.67
+          },
+          "speed": {
+            "horizontal": 735.244,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851364
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B763",
+            "icao24": "A120FE",
+            "icaoCode": "B763",
+            "regNumber": "N172DZ"
+          },
+          "airline": {
+            "iataCode": "DL",
+            "icaoCode": "DAL"
+          },
+          "arrival": {
+            "iataCode": "JFK",
+            "icaoCode": "KJFK"
+          },
+          "departure": {
+            "iataCode": "ARN",
+            "icaoCode": "ESSA"
+          },
+          "flight": {
+            "iataNumber": "DL205",
+            "icaoNumber": "DAL205",
+            "number": "205"
+          },
+          "geography": {
+            "altitude": 10363.2,
+            "direction": 250,
+            "latitude": 59.53,
+            "longitude": -22.85
+          },
+          "speed": {
+            "horizontal": 831.548,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851355
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "GRND",
+            "icao24": "760005",
+            "icaoCode": "GRND",
+            "regNumber": "XXB"
+          },
+          "airline": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "flight": {
+            "iataNumber": "XXD",
+            "icaoNumber": "SQB02ERA",
+            "number": "XXF"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 317,
+            "latitude": 31.53,
+            "longitude": 74.4
+          },
+          "speed": {
+            "horizontal": 1.852,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "unknown",
+          "system": {
+            "squawk": null,
+            "updated": 1696850703
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B763",
+            "icao24": "861BB0",
+            "icaoCode": "B763",
+            "regNumber": "JA607J"
+          },
+          "airline": {
+            "iataCode": "JL",
+            "icaoCode": "JAL"
+          },
+          "arrival": {
+            "iataCode": "SIN",
+            "icaoCode": "WSSS"
+          },
+          "departure": {
+            "iataCode": "NRT",
+            "icaoCode": "RJAA"
+          },
+          "flight": {
+            "iataNumber": "JL711",
+            "icaoNumber": "JAL711",
+            "number": "711"
+          },
+          "geography": {
+            "altitude": 10972.8,
+            "direction": 228,
+            "latitude": 27.48,
+            "longitude": 128.33
+          },
+          "speed": {
+            "horizontal": 813.028,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851363
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B77W",
+            "icao24": "A9B9E3",
+            "icaoCode": "B77W",
+            "regNumber": "N726AN"
+          },
+          "airline": {
+            "iataCode": "AA",
+            "icaoCode": "AAL"
+          },
+          "arrival": {
+            "iataCode": "JFK",
+            "icaoCode": "KJFK"
+          },
+          "departure": {
+            "iataCode": "LHR",
+            "icaoCode": "EGLL"
+          },
+          "flight": {
+            "iataNumber": "AA101",
+            "icaoNumber": "AAL101",
+            "number": "101"
+          },
+          "geography": {
+            "altitude": 10058.4,
+            "direction": 268,
+            "latitude": 52.02,
+            "longitude": -19.38
+          },
+          "speed": {
+            "horizontal": 822.288,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851357
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A20N",
+            "icao24": "4ACB58",
+            "icaoCode": "A20N",
+            "regNumber": "SE-RZX"
+          },
+          "airline": {
+            "iataCode": "SK",
+            "icaoCode": "SAS"
+          },
+          "arrival": {
+            "iataCode": "TOS",
+            "icaoCode": "ENTC"
+          },
+          "departure": {
+            "iataCode": "OSL",
+            "icaoCode": "ENGM"
+          },
+          "flight": {
+            "iataNumber": "SK4416",
+            "icaoNumber": "SAS38T",
+            "number": "4416"
+          },
+          "geography": {
+            "altitude": 137.16,
+            "direction": 193,
+            "latitude": 69.7,
+            "longitude": 18.93
+          },
+          "speed": {
+            "horizontal": 233.352,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696850767
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "ECHO",
+            "icao24": "31DE9F",
+            "icaoCode": "ECHO",
+            "regNumber": "I-D578"
+          },
+          "airline": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "flight": {
+            "iataNumber": "ID578",
+            "icaoNumber": "ID578",
+            "number": "578"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 30,
+            "latitude": 45.06,
+            "longitude": 8.83
+          },
+          "speed": {
+            "horizontal": 120.38,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "landed",
+          "system": {
+            "squawk": null,
+            "updated": 1696851355
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "A321",
+            "icao24": "461FA1",
+            "icaoCode": "A321",
+            "regNumber": "OH-LZL"
+          },
+          "airline": {
+            "iataCode": "AY",
+            "icaoCode": "FIN"
+          },
+          "arrival": {
+            "iataCode": "HEL",
+            "icaoCode": "EFHK"
+          },
+          "departure": {
+            "iataCode": "CDG",
+            "icaoCode": "LFPG"
+          },
+          "flight": {
+            "iataNumber": "AY1572",
+            "icaoNumber": "FIN5TU",
+            "number": "1572"
+          },
+          "geography": {
+            "altitude": 5532.12,
+            "direction": 59,
+            "latitude": 59.89,
+            "longitude": 23.75
+          },
+          "speed": {
+            "horizontal": 577.824,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851069
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B77W",
+            "icao24": "010153",
+            "icaoCode": "B77W",
+            "regNumber": "SU-GDP"
+          },
+          "airline": {
+            "iataCode": "MS",
+            "icaoCode": "MSR"
+          },
+          "arrival": {
+            "iataCode": "LHR",
+            "icaoCode": "EGLL"
+          },
+          "departure": {
+            "iataCode": "CAI",
+            "icaoCode": "HECA"
+          },
+          "flight": {
+            "iataNumber": "MS777",
+            "icaoNumber": "MSR777",
+            "number": "777"
+          },
+          "geography": {
+            "altitude": 7277.1,
+            "direction": 314,
+            "latitude": 50.72,
+            "longitude": 1
+          },
+          "speed": {
+            "horizontal": 653.756,
+            "isGround": 0,
+            "vspeed": 0
+          },
+          "status": "en-route",
+          "system": {
+            "squawk": null,
+            "updated": 1696851087
+          }
+        },
+        {
+          "aircraft": {
+            "iataCode": "B744",
+            "icao24": "89911C",
+            "icaoCode": "B744",
+            "regNumber": "B-18723"
+          },
+          "airline": {
+            "iataCode": "CI",
+            "icaoCode": "CAL"
+          },
+          "arrival": {
+            "iataCode": "",
+            "icaoCode": ""
+          },
+          "departure": {
+            "iataCode": "KIX",
+            "icaoCode": "RJBB"
+          },
+          "flight": {
+            "iataNumber": "CI5147",
+            "icaoNumber": "CAL5147",
+            "number": "5147"
+          },
+          "geography": {
+            "altitude": 0,
+            "direction": 258,
+            "latitude": 34.42,
+            "longitude": 135.23
+          },
+          "speed": {
+            "horizontal": 3.704,
+            "isGround": 1,
+            "vspeed": 0
+          },
+          "status": "started",
+          "system": {
+            "squawk": null,
+            "updated": 1696850771
+          }
+        }
+      ]
+    }
+  }

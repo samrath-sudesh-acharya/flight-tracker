@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fetch Page</title>
+    <link rel="stylesheet" href="info_style.css" />
+  </head>
+  <body>
+    
+    <div id="con">
+      <ul>
+        <li id="sec1">
+          <img
+            id="flight-image"
+          />
+        </li>
+        <li id="sec2">
+          <h1 id="s1"></h1>
+          <p id="s2"></p>
+        </li>
+      </ul>
+    </div>
+    <div id="status">
+      <h1>Flight Status</h1>
+        <p id="st"></p>
+    </div>
+
+    <div class="box">
+      <h1 id="b1">Arrival</h1>
+      <ul>
+        <!-- <li id="sec3">
+          <h2 id="se1">Actual</h2>
+          <p id="se2"></p>
+        </li> -->
+        <!-- <li id="sec4"><h2>Actual Runway</h2> 
+          <p id="li4"></p></li> -->
+
+        <li id="sec5">
+          <h2>Airport</h2>
+          <p id="li5"></p>
+        </li>
+        <li id="sec6">
+          <h2>Estimated</h2>
+          <p id="li6"></p>
+        </li>
+        <!-- <li id="sec7">
+          <h2>Estimated_Runway</h2>
+          <p id="li7"></p>
+        </li> -->
+        <!-- <li id="sec8">
+          <h2>Gate</h2>
+          <p id="li8"></p>
+        </li> -->
+        <li id="sec9">
+          <h2>IATA</h2>
+          <p id="li9"></p>
+        </li>
+        <li id="sec10">
+          <h2>ICAO</h2>
+          <p id="li10"></p>
+        </li>
+
+        <!-- <li id="sec11">
+          <h2>Scheduled</h2>
+          <p id="li11"></p>
+        </li>
+        <li id="sec12">
+          <h2>Terminal</h2>
+          <p id="li12"></p>
+        </li>
+        <li id="sec13">
+          <h2>Timezone</h2>
+          <p id="li13"></p>
+        </li>     -->
+           
+            <hr id="hr1">
+        <!--DEPARTURE PART-->  <div id="dep">
+          <h1 id="b2">Departure</h1>
+          <li id="d1">
+            <h2>Actual</h2>
+            <p id="l1"></p>
+          </li>    
+             
+          <!-- <li id="d2"><h2>Actual Runway</h2> 
+            <p id="l2"></p></li> -->
+  
+          <li id="d3">
+            <h2>Airport</h2>
+            <p id="l3"></p>
+          </li>
+          <li id="d4">
+            <h2>Estimated</h2>
+            <p id="l4"></p>
+          </li>
+          <!-- <li id="d5">
+            <h2>Estimated Runway</h2>
+            <p id="l5"></p>
+          </li> -->
+          <!-- <li id="d6">
+            <h2>Gate</h2>
+            <p id="l6"></p>
+          </li> -->
+          <li id="d7">
+            <h2>IATA</h2>
+            <p id="l7"></p>
+          </li>
+          <li id="d8">
+            <h2>ICAO</h2>
+            <p id="l8"></p>
+          </li>
+            
+        <!-- <li id="d9">
+          <h2>Scheduled</h2>
+          <p id="l9"></p>
+        </li>
+        <li id="d10">
+          <h2>Terminal</h2>
+          <p id="l10"></p>
+        </li> -->
+        <!-- <li id="d11">
+          <h2>Timezone</h2>
+          <p id="l11"></p>
+        </li>     -->
+        </div>
+      <div id="was">
+            </div>
+      </ul>
+    </div>
+  
+  <iframe id="map" title="MAP" height="800px" width="1400px"style="margin: 50px;position: absolute;top: 80rem;right:2rem;"></iframe>
+    <script>
+      var departure = localStorage.getItem('departure');
+      var arrival = localStorage.getItem('arrival');
+      console.log(departure);
+      console.log(arrival);
+      document.getElementById('map').src = `https://flight-tracker-eb16.onrender.com/map/departure=${departure}&arrival=${arrival}`;
+    </script>
+
+    <script>
+      const data = JSON.parse(localStorage.getItem("flight-data"));
+      console.log(data);
+      document.getElementById("flight-image").src = data["data"][0]['image'];
+      document.getElementById("s2").innerHTML = (data["data"][0]["schedule"]["AIRCRAFT"])?data["data"][0]["schedule"]["AIRCRAFT"]:"Null";
+      document.getElementById("s1").innerHTML = (data["data"][0]["flight"]["iataNumber"])?data["data"][0]["airline"]["iataCode"]:"Null";
+      // document.getElementById("se2").innerHTML = (data["data"][0]["arrival"]["actual"])?data[0]["arrival"]["actual"]:"Null";;
+      // document.getElementById("li4").innerHTML = (data["data"][0]["arrival"]["actual_runway"])?data[0]["arrival"]["actual_runway"]:"Null";
+      document.getElementById("li5").innerHTML = (data["data"][0]["schedule"]["TO"])?data["data"][0]["schedule"]["TO"]:"Null";
+      document.getElementById("li6").innerHTML = (data["data"][0]["arrival"]["STA"])?data["data"][0]["arrival"]["STA"]:"Null";
+      // document.getElementById("li7").innerHTML = (data["data"][0]["arrival"]["estimated_runway"])?data[0]["arrival"]["estimated_runway"]:"Null";
+      // document.getElementById("li8").innerHTML = (data["data"][0]["arrival"]["gate"])?data[0]["arrival"]["gate"]:"Null";
+      document.getElementById("li9").innerHTML = (data["data"][0]["arrival"]["iataCode"])?data["data"][0]["arrival"]["iataCode"]:"Null";
+      document.getElementById("li10").innerHTML = (data["data"][0]["arrival"]["icaoCode"])?data["data"][0]["arrival"]["icaoCode"]:"Null";
+      // document.getElementById("li11").innerHTML = (data["data"][0]["arrival"]["scheduled"])?data[0]["arrival"]["scheduled"]:"Null";
+      // document.getElementById("li12").innerHTML = (data["data"][0]["arrival"]["terminal"])?data[0]["arrival"]["terminal"]:"Null";
+      // document.getElementById("li13").innerHTML = (data["data"][0]["arrival"]["timezone"])?data[0]["arrival"]["timezone"]:"Null";
+      //departure
+      document.getElementById("l1").innerHTML = (data["data"][0]["schedule"]["ATD"])?data["data"][0]["schedule"]["ATD"]:"Null";
+      // document.getElementById("l2").innerHTML = (data["data"][0]["departure"]["actual_runway"])?data[0]["departure"]["actual_runway"]:"Null";
+      document.getElementById("l3").innerHTML = (data["data"][0]["schedule"]["FROM"])?data["data"][0]["schedule"]["FROM"]:"Null";
+      document.getElementById("l4").innerHTML = (data["data"][0]["schedule"]["STD"])?data["data"][0]["schedule"]["STD"]:"Null";
+      // document.getElementById("l5").innerHTML = (data["data"][0]["departure"]["estimated_runway"])? data[0]["departure"]["estimated_runway"]:"Null";
+      // document.getElementById("l6").innerHTML = (data["data"][0]["departure"]["gate"])?data[0]["departure"]["gate"]:"Null";
+      document.getElementById("l7").innerHTML = (data["data"][0]["departure"]["iataCode"])?data["data"][0]["departure"]["iataCode"]:"Null";
+      document.getElementById("l8").innerHTML = (data["data"][0]["departure"]["icaoCode"])? data["data"][0]["departure"]["icaoCode"]:"Null";
+      // document.getElementById("l9").innerHTML = (data["data"][0]["departure"]["scheduled"])?data[0]["departure"]["scheduled"]:"Null";
+      // document.getElementById("l10").innerHTML = (data["data"][0]["departure"]["terminal"])?data[0]["departure"]["terminal"]:"Null";
+      // document.getElementById("l11").innerHTML = (data["data"][0]["departure"]["timezone"])?data[0]["departure"]["timezone"]:"Null";
+      //flight status
+      document.getElementById("st").innerHTML = data["data"][0]["schedule"]["STATUS"];
+    </script>
+  </body>
+</html>
